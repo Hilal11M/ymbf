@@ -5,7 +5,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/Yayan-XD/ymbf
+$ git clone https://github.com/Hilal11M/ymbf
 
 $ pip2 install requests bs4
 
